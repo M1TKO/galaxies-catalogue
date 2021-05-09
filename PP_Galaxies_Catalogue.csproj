@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PP_Galaxies_Catalogue</RootNamespace>
+    <AssemblyName>PP_Galaxies_Catalogue</AssemblyName>
+    <StartupObject>PP_Galaxies_Catalogue.GalaxiesCatalogueApp</StartupObject>
+  </PropertyGroup>
+
+</Project>

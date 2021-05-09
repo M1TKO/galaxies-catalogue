@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\galaxyCatalogue\bin\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.exe
+C:\Users\ASUS\Desktop\galaxyCatalogue\bin\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.deps.json
+C:\Users\ASUS\Desktop\galaxyCatalogue\bin\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.runtimeconfig.json
+C:\Users\ASUS\Desktop\galaxyCatalogue\bin\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\galaxyCatalogue\bin\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.dll
+C:\Users\ASUS\Desktop\galaxyCatalogue\bin\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.pdb
+C:\Users\ASUS\Desktop\galaxyCatalogue\obj\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\galaxyCatalogue\obj\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\galaxyCatalogue\obj\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\galaxyCatalogue\obj\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\galaxyCatalogue\obj\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.dll
+C:\Users\ASUS\Desktop\galaxyCatalogue\obj\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.pdb
+C:\Users\ASUS\Desktop\galaxyCatalogue\obj\Debug\netcoreapp3.1\PP_Galaxies_Catalogue.genruntimeconfig.cache
